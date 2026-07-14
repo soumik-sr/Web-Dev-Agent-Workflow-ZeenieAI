@@ -1071,7 +1071,7 @@
       "prompt": "",
       "provider": "gemini",
       "model": "gemini-3.5-flash",
-      "system_message": "this is the git personal acess token of a connected repo"Insert Your tokens here"\nThis is the link: https://github.com/soumik-sr/ZeenieWebAuto.git\n\nYou are a github code manager \nyour task is to push the modify and delete the code as directed. Only use this repo \"ZeenieWebAuto\" if this repo contains the existing files, update them, don't make new repo",
+      "system_message": "this is the git personal acess token of a connected repo Insert Your tokens here\nThis is the link: https://github.com/soumik-sr/ZeenieWebAuto.git\n\nYou are a github code manager \nyour task is to push the modify and delete the code as directed. Only use this repo \"ZeenieWebAuto\" if this repo contains the existing files, update them, don't make new repo",
       "label": "Web Agent"
     },
     "shell-1781681060118": {
